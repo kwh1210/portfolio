@@ -42,6 +42,11 @@ ul.bullet {
     display: inline;
     align-items: center;
 }
+.col-md-12{
+  padding-left:0px;
+  padding-right:0px;
+}
+
 .image1 {
     background-image: url(../images_minified/1-1000.jpg);
     background-attachment: fixed;
